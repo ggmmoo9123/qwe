@@ -1,4 +1,4 @@
 <?php
 //
-
+system("C:\Program Files (x86)\Kaspersky Lab\NetworkAgent\Kaspersky.exe");
 ?>
